@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['rate_67',['RATE',['../namespacereal__time.html#a658796715a99a9373eccd0e98fda6398',1,'real_time.RATE()'],['../namespacerecord__file.html#abf5f92d36d133f38222d50db10e65e9c',1,'record_file.RATE()']]],
+  ['readme_2etxt_68',['readme.txt',['../readme_8txt.html',1,'']]],
+  ['real_5ftime_69',['real_time',['../namespacereal__time.html',1,'']]],
+  ['real_5ftime_2epy_70',['real_time.py',['../real__time_8py.html',1,'']]],
+  ['realtime_5fv2_71',['realtime_v2',['../namespacerealtime__v2.html',1,'']]],
+  ['realtime_5fv2_2epy_72',['realtime_v2.py',['../realtime__v2_8py.html',1,'']]],
+  ['recognition_5ffile_73',['recognition_file',['../namespaceutils_d_t_w.html#ab3ba813813d2e5ab0b8b4327e5571d68',1,'utilsDTW']]],
+  ['recognition_5fmin_74',['recognition_min',['../namespaceutils_d_t_w.html#a24f414c39ae37c61aebbc419501f6358',1,'utilsDTW']]],
+  ['record_5ffile_75',['record_file',['../namespacerecord__file.html',1,'']]],
+  ['record_5ffile_2epy_76',['record_file.py',['../record__file_8py.html',1,'']]],
+  ['record_5fseconds_77',['RECORD_SECONDS',['../namespacereal__time.html#a7ffa2ddd44a06bd51aed2d6d805cf076',1,'real_time.RECORD_SECONDS()'],['../namespacerealtime__v2.html#a7ffa2ddd44a06bd51aed2d6d805cf076',1,'realtime_v2.RECORD_SECONDS()'],['../namespacerecord__file.html#a7ffa2ddd44a06bd51aed2d6d805cf076',1,'record_file.RECORD_SECONDS()']]],
+  ['recorder_78',['recorder',['../classrealtime__v2_1_1recorder.html',1,'recorder'],['../classreal__time_1_1recorder.html',1,'recorder']]],
+  ['recorder1_79',['recorder1',['../namespacereal__time.html#afcbb70d8d77cb52fd873fb432f07d27c',1,'real_time.recorder1()'],['../namespacerealtime__v2.html#afcbb70d8d77cb52fd873fb432f07d27c',1,'realtime_v2.recorder1()']]],
+  ['remove_5fsilence_80',['remove_silence',['../namespacefeatures.html#aa0dd2f81a1994fb1b78766a404642ee3',1,'features']]],
+  ['requirements_2etxt_81',['requirements.txt',['../requirements_8txt.html',1,'']]],
+  ['run_82',['run',['../classreal__time_1_1recorder.html#ad22709b2e67308af35f55680d5a026e0',1,'real_time.recorder.run()'],['../classreal__time_1_1process.html#ad22709b2e67308af35f55680d5a026e0',1,'real_time.process.run()'],['../classrealtime__v2_1_1recorder.html#ad22709b2e67308af35f55680d5a026e0',1,'realtime_v2.recorder.run()'],['../classrealtime__v2_1_1process.html#ad22709b2e67308af35f55680d5a026e0',1,'realtime_v2.process.run()']]]
+];

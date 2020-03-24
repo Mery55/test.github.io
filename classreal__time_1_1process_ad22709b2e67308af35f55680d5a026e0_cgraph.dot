@@ -1,0 +1,16 @@
+digraph "run"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="run",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="utilsDTW.recognition_file",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceutils_d_t_w.html#ab3ba813813d2e5ab0b8b4327e5571d68",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="utilsDTW.score_test_file",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceutils_d_t_w.html#aaf560a72b4b3dd70e389047e56634bcb",tooltip=" "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="features.features_file",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacefeatures.html#a6aa41e0543ef92b69174936b7713946d",tooltip=" "];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="features.remove_silence",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacefeatures.html#aa0dd2f81a1994fb1b78766a404642ee3",tooltip=" "];
+}
